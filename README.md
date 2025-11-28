@@ -34,5 +34,5 @@ A simple Bash script that automatically changes your MAC address every 3 seconds
 
 3. Run the script with root privileges:
   
-   '''' sudo ./mac-changer.sh
+   ``` sudo ./mac-changer.sh
 
